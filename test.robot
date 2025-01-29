@@ -2,8 +2,7 @@
 Library    SeleniumLibrary
 
 * Variables *
-${CHROME_BROWSER_PATH}     /Users/jet/testing/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
-${CHROME_DRIVER_PATH}      /Users/jet/testing/chromedriver
+${CHROME_DRIVER_PATH}      /usr/local/bin/chromedriver
 ${URL}    https://www.kku.ac.th/
 
 *** Test Cases ***
